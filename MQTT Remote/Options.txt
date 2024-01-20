@@ -1,0 +1,7 @@
+/s Sarcastic
+/srs Serious
+/pos Positive
+/neu Neutral
+/neg Negative
+/gen Genuine
+/hyp Hyperbole
